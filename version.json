@@ -1,7 +1,7 @@
 {
-  "latestVersion": "2.6.0",
+  "latestVersion": "2.6.1",
   "forceUpdate": false,
-  "message": "LabScope 2.6.0 is available.",
-  "releaseNotes": "New report design (Modern Band) with colour options, plus 5 usability fixes.",
-  "downloadUrl": "https://github.com/radheyradheyenterprises2020-bit/labscope-downloads/releases/download/v2.6.0/LabScope_LIS_Setup_v2.6.0.exe"
+  "message": "LabScope 2.6.1 is available.",
+  "releaseNotes": "Report number fix for incorrect system clocks, more reliable Lab ID generation, and the new report design with colour options.",
+  "downloadUrl": "https://github.com/radheyradheyenterprises2020-bit/labscope-downloads/releases/download/v2.6.1/LabScope_LIS_Setup_v2.6.1.exe"
 }
